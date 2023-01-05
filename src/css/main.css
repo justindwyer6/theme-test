@@ -35,6 +35,13 @@ Specific pieces of UI that are stylized. Typically used for global partial styli
 {% include './components/_header.css' %}
 {% include './components/_default-modules.css' %}
 
+/* MasterClass Styles
+Styles exported from MasterClass's Design System
+Documentation on why we chose to hardcode this rather than adding the @mc/design-system package as a dependency: https://ourmasterclass.slack.com/archives/CB74RPL82/p1672857104916019
+*/
+
+{% include './utilities/masterclass-base.css' %}
+
 /* Utilities
 Helper classes with ability to override anything that comes before it
 */
