@@ -326,7 +326,7 @@
   .header__navigation.open,
   .header__search.open,
   .header__language-switcher.open {
-    background-color: #F8FAFC;
+    background-color: #000000;
     display: block;
     left: 0;
     min-height: calc(100vh - 115px);
