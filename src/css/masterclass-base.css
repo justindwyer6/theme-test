@@ -2630,26 +2630,32 @@ a:hover {
   font-size: var(--mc-scale-10)
 }
 
+h1,
 .mc-text-h1 {
   font-size: var(--mc-scale-9)
 }
 
+h2,
 .mc-text-h2 {
   font-size: var(--mc-scale-8)
 }
 
+h3,
 .mc-text-h3 {
   font-size: var(--mc-scale-7)
 }
 
+h4,
 .mc-text-h4 {
   font-size: var(--mc-scale-6)
 }
 
+h5,
 .mc-text-h5 {
   font-size: var(--mc-scale-5)
 }
 
+h6,
 .mc-text-h6 {
   font-size: var(--mc-scale-4)
 }
@@ -2662,6 +2668,12 @@ a:hover {
   font-size: var(--mc-scale-3)
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
 .mc-text-d3,
 .mc-text-d2,
 .mc-text-d1,
